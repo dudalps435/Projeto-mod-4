@@ -1,5 +1,5 @@
 import './App.css'
-import Footer from './components/Footer'
+import Footer from './components/footer'
 import Header from './components/Header'
 import BemVindo from './components/BemVindo'
 import SecaoHabitos from './components/SecaoHabitos'
